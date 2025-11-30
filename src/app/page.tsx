@@ -16,8 +16,26 @@ export default function Home() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    // TODO: Integrate with backend API
-    alert('Backend integration coming soon!');
+    try {
+      const res = await fetch('/api/predict', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ symptoms }),
+      });
+      const data = await res.json();
+      if (res.ok && data?.result) {
+        setPrediction(data.result);
+      } else if (res.ok && !data?.result) {
+        setPrediction(null);
+        alert(data?.message || 'No match found for those symptoms.');
+      } else {
+        setPrediction(null);
+        alert(data?.error || 'Server error while predicting.');
+      }
+    } catch (err) {
+      setPrediction(null);
+      alert('Network error: could not reach backend.');
+    }
   };
 
   return (

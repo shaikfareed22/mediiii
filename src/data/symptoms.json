@@ -1,0 +1,158 @@
+[
+  {
+    "disease": "Common Cold",
+    "description": "A viral upper respiratory infection causing sneezing, sore throat, and cough.",
+    "symptoms": ["sneezing", "cough", "sore throat", "runny nose", "congestion"],
+    "precautions": ["Rest", "Stay hydrated", "Wash hands frequently"],
+    "medications": ["Paracetamol (for fever)", "Decongestant"],
+    "workouts": ["Light walking", "Gentle stretching"],
+    "diets": ["Warm soups", "Fluids and electrolytes"]
+  },
+  {
+    "disease": "Migraine",
+    "description": "A neurological condition characterized by intense, pulsing headaches often with nausea or sensitivity to light.",
+    "symptoms": ["headache", "nausea", "sensitivity to light", "sensitivity to sound"],
+    "precautions": ["Avoid bright lights", "Rest in quiet room", "Manage triggers"],
+    "medications": ["Triptans (prescription)", "NSAIDs"],
+    "workouts": ["Light yoga", "Breathing exercises"],
+    "diets": ["Avoid trigger foods", "Regular meals"]
+  },
+  {
+    "disease": "cold",
+    "description": "A viral upper respiratory infection causing sneezing, sore throat, and cough.",
+    "symptoms": ["sneezing", "cough", "sore throat", "runny nose", "congestion"],
+    "precautions": ["Rest", "Stay hydrated", "Wash hands frequently"],
+    "medications": ["Paracetamol (for fever)", "Decongestant"],
+    "workouts": ["Light walking", "Gentle stretching"],
+    "diets": ["Warm soups", "Fluids and electrolytes"]
+  },
+  {
+    "disease": "Fungal infection",
+    "description": "Fungal infection is a common skin condition caused by fungi.",
+    "symptoms": ["itching","skin_rash","nodal_skin_eruptions","dischromic _patches"],
+    "precautions": ["Rest", "Stay hydrated", "Wash hands frequently"],
+    "medications": ["Antifungal Cream", "Fluconazole", "Terbinafine", "Clotrimazole", "Ketoconazole"],
+    "workouts": ["Light walking", "Gentle stretching"],
+    "diets": ["Warm soups", "Fluids and electrolytes"]
+  },
+  {
+    "disease": "Allergy",
+    "description": "A condition in which the immune system reacts abnormally to a foreign substance.",
+    "symptoms": ["sneezing", "itchy eyes", "runny nose", "hives"],
+    "precautions": ["Avoid allergens", "Use air purifiers", "Keep windows closed during high pollen seasons"],
+    "medications": ["Antihistamines", "Nasal corticosteroids"],
+    "workouts": ["Indoor exercises", "Yoga"],
+    "diets": ["Anti-inflammatory foods", "Avoid known food allergens"]
+
+  },
+  {
+    "disease": "Chickenpox",
+    "description": "A highly contagious viral infection causing an itchy rash and flu-like symptoms.",
+    "symptoms": ["itchy rash", "fever", "fatigue", "loss of appetite"],
+    "precautions": ["Isolate from others", "Avoid scratching", "Keep skin clean"],
+    "medications": ["Antihistamines (for itching)", "Acetaminophen (for fever)"],
+    "workouts": ["Rest is recommended"],
+    "diets": ["Light, nutritious meals", "Plenty of fluids"]
+
+  },
+  {
+    "disease": "Diabetes",
+    "description": "A chronic condition that affects how the body processes blood sugar (glucose).",
+    "symptoms": ["increased thirst", "frequent urination", "extreme hunger", "fatigue"],
+    "precautions": ["Monitor blood sugar levels", "Maintain a healthy weight", "Regular exercise"],
+    "medications": ["Insulin therapy", "Metformin"],
+    "workouts": ["Walking", "Cycling", "Strength training"],
+    "diets": ["Low glycemic index foods", "High fiber diet"]
+  },
+  {
+    "disease": "Hypertension",
+    "description": "A condition in which the force of the blood against the artery walls is too high.",
+    "symptoms": ["headache", "shortness of breath", "nosebleeds", "chest pain"],
+    "precautions": ["Reduce salt intake", "Maintain a healthy weight", "Regular exercise"],
+    "medications": ["ACE inhibitors", "Beta blockers"],
+    "workouts": ["Aerobic exercises", "Yoga"],
+    "diets": ["DASH diet", "Low sodium foods"]
+  },
+  {
+    "disease": "Asthma",
+    "description": "A condition in which a person's airways become inflamed, narrow and swell, producing extra mucus, making it difficult to breathe.",
+    "symptoms": ["shortness of breath", "chest tightness", "wheezing", "coughing"],
+    "precautions": ["Avoid triggers", "Use air purifiers", "Regular medical check-ups"],
+    "medications": ["Inhaled corticosteroids", "Bronchodilators"],
+    "workouts": ["Swimming", "Walking"],
+    "diets": ["Anti-inflammatory foods", "Maintain a healthy weight"]
+  },
+  {
+    "disease": "Depression",
+    "description": "A mood disorder that causes a persistent feeling of sadness and loss of interest.",
+    "symptoms": ["persistent sadness", "loss of interest", "fatigue", "difficulty concentrating"],
+    "precautions": ["Seek therapy", "Maintain social connections", "Regular physical activity"],
+    "medications": ["SSRIs", "SNRIs"],
+    "workouts": ["Aerobic exercises", "Yoga"],
+    "diets": ["Balanced diet", "Omega-3 fatty acids"]
+  },
+  {
+    "disease": "Anxiety",
+    "description": "A mental health disorder characterized by feelings of worry, anxiety, or fear that are strong enough to interfere with one's daily activities.",
+    "symptoms": ["excessive worry", "restlessness", "fatigue", "difficulty concentrating"],
+    "precautions": ["Practice relaxation techniques", "Maintain a routine", "Seek therapy if needed"],
+    "medications": ["SSRIs", "Benzodiazepines"],
+    "workouts": ["Yoga", "Meditation"],
+    "diets": ["Balanced diet", "Limit caffeine intake"]
+  },
+  {
+    "disease": "Arthritis",
+    "description": "Inflammation of one or more joints, causing pain and stiffness that can worsen with age.",
+    "symptoms": ["joint pain", "stiffness", "swelling", "reduced range of motion"],
+    "precautions": ["Maintain a healthy weight", "Regular low-impact exercise", "Protect joints from injury"],
+    "medications": ["NSAIDs", "Corticosteroids"],
+    "workouts": ["Swimming", "Stretching exercises"],
+    "diets": ["Anti-inflammatory foods", "Maintain a healthy weight"]
+  },
+  {
+    "disease": "Eczema",
+    "description": "A condition that makes the skin red, inflamed, and itchy.",
+    "symptoms": ["itchy skin", "redness", "dryness", "swelling"],
+    "precautions": ["Moisturize regularly", "Avoid irritants", "Use gentle skin care products"],
+    "medications": ["Topical corticosteroids", "Moisturizers"],
+    "workouts": ["Light walking", "Gentle stretching"],
+    "diets": ["Anti-inflammatory foods", "Avoid known food triggers"]
+  },
+  {
+    "disease": "Insomnia",
+    "description": "A sleep disorder that makes it hard to fall asleep, stay asleep, or causes you to wake up too early and not be able to get back to sleep.",
+    "symptoms": ["difficulty falling asleep", "waking up frequently", "daytime fatigue", "irritability"],
+    "precautions": ["Maintain a regular sleep schedule", "Avoid caffeine and electronics before bed", "Create a relaxing bedtime routine"],
+    "medications": ["Melatonin", "Prescription sleep aids"],
+    "workouts": ["Light yoga", "Relaxation exercises"],
+    "diets": ["Avoid heavy meals before bed", "Limit caffeine and alcohol intake"]
+  },
+  {
+    "disease": "Obesity",
+    "description": "A condition characterized by excessive body fat that increases the risk of health problems.",
+    "symptoms": ["excess body fat", "difficulty with physical activity", "shortness of breath"],
+    "precautions": ["Maintain a healthy diet", "Regular physical activity", "Monitor weight regularly"],
+    "medications": ["Orlistat", "Phentermine"],
+    "workouts": ["Cardiovascular exercises", "Strength training"],
+    "diets": ["Calorie-controlled diet", "High fiber foods"]
+  },
+  {
+    "disease": "Osteoporosis",
+    "description": "A condition that weakens bones, making them fragile and more likely to break.",
+    "symptoms": ["back pain", "loss of height", "stooped posture", "bone fractures"],
+    "precautions": ["Adequate calcium and vitamin D intake", "Regular weight-bearing exercise", "Avoid smoking and excessive alcohol"],
+    "medications": ["Bisphosphonates", "Calcium and Vitamin D supplements"],
+    "workouts": ["Weight-bearing exercises", "Strength training"],
+    "diets": ["Calcium-rich foods", "Vitamin D sources"]
+  },
+  {
+    "disease": "Psoriasis",
+    "description": "A chronic autoimmune condition that causes the rapid buildup of skin cells, leading to scaling on the skin’s surface.",
+    "symptoms": ["red patches of skin", "silvery scales", "dry, cracked skin", "itching"],
+    "precautions": ["Moisturize regularly", "Avoid triggers", "Use gentle skin care products"],
+    "medications": ["Topical corticosteroids", "Vitamin D analogues"],
+    "workouts": ["Light walking", "Gentle stretching"],
+    "diets": ["Anti-inflammatory foods", "Maintain a healthy weight"]
+  }
+]
+
