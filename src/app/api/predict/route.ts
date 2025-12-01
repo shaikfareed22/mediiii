@@ -16,7 +16,16 @@ export async function POST(request: Request) {
       .filter(Boolean);
 
     // Simple scoring: count symptom token matches for each disease
-    let best: any = null;
+    interface Disease {
+      disease: string;
+      description: string;
+      symptoms: string[];
+      precautions: string[];
+      medications: string[];
+      workouts: string[];
+      diets: string[];
+    }
+    let best: Disease | null = null;
     let bestScore = 0;
 
     for (const entry of data) {
@@ -41,7 +50,7 @@ export async function POST(request: Request) {
       },
       { status: 200 }
     );
-  } catch (err) {
+  } catch {
     return NextResponse.json({ error: 'Invalid request or server error.' }, { status: 500 });
   }
 }

@@ -1,9 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: 'export',
+  // Removed 'output: export' to enable API routes and dynamic rendering
+  // (required for Vercel serverless functions)
   images: {
-    unoptimized: true,
+    unoptimized: false,
   },
   experimental: {
     optimizeCss: true,

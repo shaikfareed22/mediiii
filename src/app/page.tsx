@@ -32,7 +32,7 @@ export default function Home() {
         setPrediction(null);
         alert(data?.error || 'Server error while predicting.');
       }
-    } catch (err) {
+    } catch {
       setPrediction(null);
       alert('Network error: could not reach backend.');
     }

@@ -8,12 +8,12 @@ export default function DeveloperPage() {
     >
       <div className="prose prose-blue max-w-none">
         <div className="bg-gradient-to-r from-blue-50 to-indigo-50 p-6 rounded-lg mb-8">
-          <h4 className="text-xl font-semibold text-blue-900 mb-2">Shaik Fareed: AI Enthusiast & Future Innovator</h4>
+          <h4 className="text-xl font-semibold text-blue-900 mb-2">Shaik Fareed: AI Enthusiast &amp; Future Innovator</h4>
           <p className="text-blue-800">Creating intelligent solutions for healthcare through AI innovation</p>
         </div>
 
         <h5>Meet the Developer</h5>
-        <p>Hello, I'm Shaik Fareed — an AI enthusiast passionate about exploring cutting-edge tools and technologies. I'm deeply interested in solving real-world problems through intelligent, research-driven solutions.</p>
+        <p>Hello, I&apos;m Shaik Fareed — an AI enthusiast passionate about exploring cutting-edge tools and technologies. I&apos;m deeply interested in solving real-world problems through intelligent, research-driven solutions.</p>
 
         <h5>My Journey in AI</h5>
         <p>Currently diving deep into the world of Artificial Intelligence, I spend most of my time researching and learning new advancements in AI and ML. My vision is to become a global leader in AI innovation, contributing impactful technologies to society.</p>
@@ -25,7 +25,7 @@ export default function DeveloperPage() {
         <p>One of my most exciting projects is <strong>MediBot</strong> — an AI-based healthcare assistant designed to improve healthcare accessibility and provide intelligent health support. MediBot is a step toward my mission of leveraging AI to transform healthcare systems worldwide.</p>
 
         <h5>Looking Ahead</h5>
-        <p>As I continue to grow in this field, I welcome you to follow my journey, explore my work, and collaborate on innovations that can truly make a difference. Let's shape the future of AI together.</p>
+        <p>As I continue to grow in this field, I welcome you to follow my journey, explore my work, and collaborate on innovations that can truly make a difference. Let&apos;s shape the future of AI together.</p>
 
         <div className="mt-8 bg-white p-6 rounded-lg shadow-md">
           <h6 className="text-lg font-semibold mb-4">Connect with Me</h6>

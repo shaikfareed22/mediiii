@@ -24,10 +24,10 @@ export default function ContactPage() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         <div className="prose prose-blue">
           <h4>Support & Assistance</h4>
-          <p>Our support team is always ready to help with technical issues, product inquiries, or general feedback. Don't hesitate to reach out — your voice matters to us.</p>
+          <p>Our support team is always ready to help with technical issues, product inquiries, or general feedback. Don&apos;t hesitate to reach out — your voice matters to us.</p>
 
           <h4>Reach Out Anytime</h4>
-          <p>For quick responses, drop us an email or fill out the contact form. We're committed to ensuring a smooth and helpful experience for every user.</p>
+          <p>For quick responses, drop us an email or fill out the contact form. We&apos;re committed to ensuring a smooth and helpful experience for every user.</p>
           <div className="space-y-2">
             <p><strong>Email:</strong> <a href="mailto:shaikfareed2203@gmail.com">shaikfareed2203@gmail.com</a></p>
             <p><strong>Phone:</strong> <a href="tel:+919701864124">+91 97018 64124</a></p>
