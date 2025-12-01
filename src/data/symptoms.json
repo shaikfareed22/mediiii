@@ -153,6 +153,51 @@
     "medications": ["Topical corticosteroids", "Vitamin D analogues"],
     "workouts": ["Light walking", "Gentle stretching"],
     "diets": ["Anti-inflammatory foods", "Maintain a healthy weight"]
+  },
+  {
+    "disease": "Bronchitis",
+    "description": "Inflammation of the bronchial tubes, causing coughing and difficulty breathing.",
+    "symptoms": ["persistent cough", "mucus production", "fatigue", "shortness of breath"],
+    "precautions": ["Avoid smoking", "Use a humidifier", "Rest and stay hydrated"],
+    "medications": ["Bronchodilators", "Cough suppressants"],
+    "workouts": ["Light walking", "Breathing exercises"],
+    "diets": ["Warm fluids", "Nutritious foods"]
+  },
+  {
+    "disease": "Gastroenteritis",
+    "description": "An intestinal infection marked by diarrhea, cramps, nausea, vomiting, and fever.",
+    "symptoms": ["diarrhea", "abdominal cramps", "nausea", "vomiting", "fever"],
+    "precautions": ["Practice good hygiene", "Avoid contaminated food and water", "Stay hydrated"],
+    "medications": ["Oral rehydration solutions", "Antiemetics"],
+    "workouts": ["Rest is recommended"],
+    "diets": ["BRAT diet (bananas, rice, applesauce, toast)", "Clear fluids"]
+  },
+  {
+    "disease": "Tuberculosis",
+    "description": "A serious infectious disease that mainly affects the lungs, caused by the bacterium Mycobacterium tuberculosis.",
+    "symptoms": ["persistent cough", "chest pain", "coughing up blood", "fatigue", "weight loss", "fever", "night sweats"],
+    "precautions": ["Avoid close contact with infected individuals", "Ensure proper ventilation", "Complete prescribed medication course"],
+    "medications": ["Isoniazid", "Rifampin", "Ethambutol", "Pyrazinamide"],
+    "workouts": ["Light walking", "Breathing exercises"],
+    "diets": ["Nutritious foods", "High-protein diet"]
+  },
+  {
+    "disease": "Sinusitis",
+    "description": "Inflammation or swelling of the tissue lining the sinuses, often due to infection.",
+    "symptoms": ["facial pain", "nasal congestion", "headache", "fever", "thick nasal discharge"],
+    "precautions": ["Avoid allergens", "Use a humidifier", "Stay hydrated"],
+    "medications": ["Nasal corticosteroids", "Decongestants"],
+    "workouts": ["Light walking", "Breathing exercises"],
+    "diets": ["Warm fluids", "Nutritious foods"]
+  },
+  {
+    "disease": "Urinary Tract Infection",
+    "description": "An infection in any part of the urinary system, including kidneys, bladder, or urethra.",
+    "symptoms": ["frequent urination", "burning sensation during urination", "cloudy urine", "pelvic pain"],
+    "precautions": ["Drink plenty of water", "Wipe front to back", "Urinate after intercourse"],
+    "medications": ["Antibiotics (prescription)", "Pain relievers"],
+    "workouts": ["Light walking", "Gentle stretching"],
+    "diets": ["Cranberry juice", "Hydrating fluids"]
   }
 ]
 
