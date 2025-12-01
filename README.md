@@ -35,6 +35,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+Important note: this project contains an API route (`src/app/api/predict/route.ts`). Because of that, do NOT build the site as a static-only export (e.g. `next export`), since static exports cannot serve API routes or server functions. Deploy to Vercel (recommended) or another platform that supports Next.js server/API routes so the API continues to work.
+
 ## Adding disease data
 
 To add or extend the dataset the app uses to match symptoms, edit `src/data/symptoms.json`. Each entry should be an object with the following shape:
