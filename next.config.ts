@@ -9,9 +9,6 @@ const nextConfig: NextConfig = {
     // your experimental configs can stay empty or continue here
   },
 
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
 
   typescript: {
     ignoreBuildErrors: true,
