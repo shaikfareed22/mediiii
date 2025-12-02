@@ -10,9 +10,7 @@ const nextConfig: NextConfig = {
   },
 
 
-  typescript: {
-    ignoreBuildErrors: true,
-  },
+  // Enable TypeScript strict build checking. Fix TypeScript errors to proceed.
 
   webpack: (config) => {
     config.infrastructureLogging = {
